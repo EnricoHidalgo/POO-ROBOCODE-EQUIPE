@@ -1,6 +1,6 @@
 // Autores: André Oliveira, Enrico Hidalgo, Ryan Fidelis;
 // Atividade: 07;
-// Curso de POO aplicado ao Robocode
+// Curso de POO aplicado ao Robocode.
 
 package pdoAER;
 import robocode.*;
